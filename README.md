@@ -1,10 +1,8 @@
 # Platformer_Framework
 
-A framework to build a simple 2D platformer game in Unity (2D URP in 2021.3.6f1).
+A framework to build a simple 2D platformer game in Unity (2D URP in 2021.3.6f1) by Aaron Goss.
 
 # Attribution
-
-Framework by Aaron Goss.
 
 [Pixel Platformer 2D asset pack](https://www.kenney.nl/assets/pixel-platformer) by Kenney under [CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
 
